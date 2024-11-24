@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1732486988 source:c:\users\owner\desktop\stuff\stac\cs 102\homework 4\specialstack\main.cpp
+	"SpecialStack.h"
+
+1732486912 c:\users\owner\desktop\stuff\stac\cs 102\homework 4\specialstack\specialstack.h
+	<stack>
+	<iostream>
+	<stdexcept>
+

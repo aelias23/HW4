@@ -1,0 +1,15 @@
+#ifndef SPECIALSTACK_
+#define SPECIALSTACK_
+
+
+class SpecialStack
+{
+    public:
+        SpecialStack();
+
+    protected:
+
+    private:
+};
+
+#endif // SPECIALSTACK_
